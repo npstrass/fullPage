@@ -1,0 +1,39 @@
+h1 {
+  font-family: "Montserrat", sans-serif;
+  text-align: center;
+  font-size: 5rem;
+  text-shadow: 8px 8px 16px rgba(0, 0, 0, 0.35);
+  color: white;
+}
+
+span {
+  filter: brightness(0) invert(1);
+}
+
+.s1 {
+  background: url(../images/image-1.jpg);
+  background-size: cover;
+}
+
+.s2 {
+  background: url(../images/image-2.jpg);
+  background-size: cover;
+}
+
+.s3 {
+  background: url(../images/image-3.jpg);
+  background-size: cover;
+}
+
+.fp-tooltip {
+  font-family: "Courier New", Courier, monospace;
+  text-transform: lowercase;
+  letter-spacing: -0.25px;
+}
+
+.fp-slidesNav.fp-bottom {
+    bottom: 17px;
+    right: 0;
+    left: 0;
+    text-align: center;
+}
